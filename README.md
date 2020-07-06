@@ -1,4 +1,4 @@
-# atxsafetyproject
+# Fix broken systems
 We want to fix systems- even if that means throwing them away and rebuilding them- not condemn individuals.
 
 ## Why?
@@ -24,7 +24,7 @@ We will seek opportunities to partner with other grassroots organizations where 
 ## What to bring up in your public comment
 The following headers describe major issues with the current City of Austin/Austin Police Association contract.
 
-Choose 2-3 of the sections below to raise as problematic in your public comment period. Mention if you live and/or work in Austin, pay taxes here, and are registered to vote here. Remember that city council members and police are people. We want to fix systems- even if that means throwing them away and rebuilding them- not condemn individuals.
+Choose 2-3 of the sections below to raise as problematic in your public comment period. Mention if you live and/or work in Austin, pay taxes here, and are registered to vote here. Remember that city council members and police are people. Again, we want to fix the broken systems.
 ### Disqualifies Complaints 
 #### Article 16 Section 11.a lines 11-15 
 > The statutory time period for the Chief of Police to take disciplinary action against an officer shall be tolled to the extent of any period in which a court order, injunction, or TRO, obtained by the officer involved or the Association on behalf of the officer, halts the Department’s investigative or disciplinary process. In no event will the actual time exceed 180 calendar days.
